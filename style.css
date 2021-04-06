@@ -1,0 +1,31 @@
+body {
+  text-align:center;
+  background: linear-gradient( #00ff2a 0%, #00ffd0 100%);
+  background-repeat:no-repeat;
+}
+img{
+  border-radius:50%;
+  width:200px;
+}
+h1{
+  text-shadow: 2px 2px #2037c9;
+  font-size:30px
+}
+p{
+  font-size:20px;
+}
+.links{
+    float: left;
+    color: azure;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+links:hover{
+    background-color: black
+}
+
+    
